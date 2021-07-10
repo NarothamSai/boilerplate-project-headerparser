@@ -9,7 +9,7 @@ The frontend and backend is forked from freecodecamp. Created API endpoint fulfi
 
 Test specs are in `/spec` folder
 
-##API
+## API
 
 ```
 GET /api/whoami/
